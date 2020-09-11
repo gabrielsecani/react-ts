@@ -12,9 +12,6 @@ export default (props: InputProps) => {
       props.mudou(val);
     }
   });
-  // const setValor = v => {
-  //   setVal(v);
-  // };
   const estilo = { width: "90%" };
   return (
     <div>
